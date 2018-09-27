@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: "first-empty-change-set"
+      author: Vit.Khodak
+      changes:
+        empty: {}
